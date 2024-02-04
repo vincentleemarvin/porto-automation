@@ -2,7 +2,7 @@
 Portofolio about automation testing using cypress
 
 
-##How to run the test?
+#How to run the test?
 1. You need to Clone the repository
 2. Open the terminal
 3. Type 'Npx cypress open'
