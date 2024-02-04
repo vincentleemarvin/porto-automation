@@ -1,5 +1,5 @@
-describe('My First Test', () => {
-  it('Does something', () => {
+describe('Let Code Testing Web', () => {
+  it('Create Script for the web', () => {
     cy.visit('https://letcode.in/edit');
     cy.contains('Input').should('be.visible');
     
